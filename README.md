@@ -103,6 +103,7 @@ Push your commit to the repo
 ---
 
 ## Appendix: Key Git Concepts Explained
+This section is written by my homie, ChatGPT ↓
 
 ### What is Git?
 **Git** is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project simultaneously, keeping a detailed history of every change.
